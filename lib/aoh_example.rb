@@ -25,7 +25,7 @@ def literal_aoh
     {:name =>  "Bruce Green", :occupation => "Fan of Mildred"}
   ]
   
-  assembled_aoh
+  # assembled_aoh
   
   
   # assembled_aoh = [DON_G.sort, JOELLE_VD.sort, PAT_M.sort, KATE_G.sort, BRUCE_G.sort]
